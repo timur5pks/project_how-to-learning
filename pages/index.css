@@ -43,4 +43,17 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/__title/techniques__title.css);
+@import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks);
+@import url(../blocks);
