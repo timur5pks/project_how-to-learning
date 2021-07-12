@@ -52,6 +52,11 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__subtitle/video__subtitle.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe-wrapper/video__iframe-wrapper.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/resources/resources.css);

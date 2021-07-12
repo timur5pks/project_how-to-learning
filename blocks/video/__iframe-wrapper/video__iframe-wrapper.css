@@ -1,0 +1,9 @@
+.video__iframe-wrapper {
+  width: 515px;
+  height: 316px;
+  margin-right: 20px;
+}
+
+.video__iframe-wrapper:last-of-type {
+  margin-right: 0px;
+}
